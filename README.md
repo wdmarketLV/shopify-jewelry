@@ -1,1 +1,1 @@
-# meimelin-atelier
+# shopify-jewelry
